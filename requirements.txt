@@ -37,7 +37,7 @@ MarkupSafe==2.1.5
 mdurl==0.1.2
 multidict==6.1.0
 narwhals==1.30.0
-numpy==1.24.4
+numpy==1.26.0
 openai==1.66.3
 orjson==3.10.15
 packaging==24.2
@@ -75,3 +75,4 @@ tzdata==2025.1
 urllib3==2.2.3
 yarl==1.15.2
 zipp==3.20.2
+setuptools>=58.0.0
